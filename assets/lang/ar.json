@@ -1,0 +1,105 @@
+{
+
+  "search ": "بحث",
+  "error ": "خطأ",
+  "success ": "تم بنجاح",
+  "yes ": "نعم",
+  "no ": "لا",
+  "or ": "أو",
+  "now ": "الان",
+  "cancel ": "الغاء",
+  "submit ": "تم",
+  "back ": "رجوع",
+  "camera ": "كاميرا",
+  "gallery ": "المعرض",
+  "add ": "اضافة",
+  "empty ": "فارغ",
+  "outOfStock ": "نفذت الكمية",
+  "noConnection ": "لا يوجد انترنت",
+  "recently ": "مؤخرا",
+
+
+  "home":"الرئيسية",
+  "products":"المنتجات",
+  "latest added":"المضاف مؤخرا",
+
+
+  "login ": "تسجيل الدخول",
+  "register ": "انشاء حساب",
+  "address ": "العنوان",
+  "addAddress ": "اضافة عنوان",
+  "somethingWrong ": "هناك خطأ ما",
+  "validText ": "ادخل نص صالح",
+  "email ": "البريد الالكتروني",
+  "password ": "كلمة المرور",
+  "rePassword ": "اعادة تعيين كلمة المرور",
+  "haveAccount ": "لديك حساب بالفعل؟",
+  "fullName ": "الاسم بالكامل",
+  "phone ": "التليفون",
+  "st ": "شارع",
+  "city ": "مدينة",
+  "logOut ": "تسجيل الخروج",
+  "picAddress ": "من فضلك ادخل عنوان",
+  "forgotPassword" : "هل نسيت كلمة المرور؟",
+  "verification": "ادخل البريد الالكتروني للتحقق",
+
+
+
+
+
+
+
+  "cart":"السلة",
+  "items":"العناصر",
+  "subTotal":"الاجمالي",
+  "discount":"الخصم",
+  "deliveryFee":"خدمة التوصيل",
+  "total":"التكلفة",
+  "checkout":"دفع",
+  "payment":"الدفع",
+  "shopNow ": "تسوق الان",
+  "quantity ": "الكمية",
+  "sureToDelete ": "تأكيد المسح!",
+  "cartCleared ": "تم مسح السلة",
+  "addToCart ": "اضافة الى السلة",
+  "inCart ": "في السلة",
+  "details ": "التفاصيل",
+
+
+  "date ": "التاريخ",
+  "orders":"الطلبات",
+  "cancelOrder ": "الغاء الطلب",
+  "cost ": "التكلفة",
+  "orderDate ": "تاريخ الطلب",
+  "status ": "الحالة",
+  "delivered ": "تم التسليم",
+  "waiting ": "انتظار",
+  "inProcess ": "قيد المعالجة",
+  "all ": "الكل",
+  "noOrders ": "لا توجد طلبات",
+  "orderDetails ": "تفاصيل الطلب",
+
+
+
+
+  "settings":"الاعدادات",
+  "editProfile":"تعديل الصفحة الشخصية",
+  "general":"العامة",
+  "viewedRecently":"المعروض مؤخرا",
+  "wishlist":"المفضلة",
+  "theme":"الوضع",
+  "other":"أخرى",
+  "privacyAndPolicy":"الخصوصية و السياسة",
+  "dark ": "غامق",
+  "light ": "فاتح",
+
+  "categories":"التصنيفات",
+  "phones":"موبايلات",
+  "laptops":"لابتوب",
+  "electronics":"اليكترونيات",
+  "watches":"ساعات",
+  "clothes":"ملابس",
+  "shoes":"أحذية",
+  "books":"كتب",
+  "cosmetics":"تجميل"
+}
